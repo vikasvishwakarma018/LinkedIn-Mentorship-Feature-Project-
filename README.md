@@ -153,13 +153,13 @@ Right-side 75% layout includes:
 
 ## 📂 Folder Structure
 LinkedIn-Mentorship-Feature/
-│
-├── README.md
-├── wireframes/
-├── ui-design/
-├── documentation/
-├── prototype/
-└── presentation/
+- │
+- ├── README.md
+- ├── wireframes/
+- ├── ui-design/
+- ├── documentation/
+- ├── prototype/
+- └── presentation/
 
 ---
 
